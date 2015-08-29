@@ -1,4 +1,4 @@
-ansible-cloudwatch-metrics
+ansible-cloudwatch-alarms
 ==========================
 
 This script uses Ansible's ec2_metric_alarm module to create/update alarms based on CPU, disk space, memory, and swap utilization.  
